@@ -1,2 +1,2 @@
-# C-Library
-C Library function in c++
+# C-Library functions in c++
+
